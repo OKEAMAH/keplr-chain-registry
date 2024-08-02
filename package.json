@@ -29,7 +29,7 @@
     "@keplr-wallet/chain-validator": "v0.12.105",
     "@keplr-wallet/common": "v0.12.105",
     "@keplr-wallet/cosmos": "v0.12.105",
-    "@keplr-wallet/types": "v0.12.105",
+    "@keplr-wallet/types": "0.12.110",
     "axios": "^0.27.2",
     "cors": "^2.8.5",
     "esbuild": "^0.19.5",
