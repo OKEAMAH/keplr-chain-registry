@@ -32,7 +32,7 @@
     "@keplr-wallet/types": "v0.12.105",
     "axios": "^0.27.2",
     "cors": "^2.8.5",
-    "esbuild": "^0.19.5",
+    "esbuild": "^0.23.0",
     "image-size": "^1.0.2",
     "koa": "^2.14.2",
     "koa-static": "^5.0.0",
